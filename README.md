@@ -55,15 +55,15 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | Apr 10 | Wed | Methods/results section |  | Research proposal |
 | Apr 15 | Mon | Individual meetings - proposal feedback |  |  |
 | Apr 17 | Wed | Dealing with missingness | Notes |  |
-| Apr 22 | Mon | Neural networks | ESL ch 11; DLPyR ch 1-2 |  |
+| Apr 22 | Mon | Neural networks | ESL ch 11; DLPyR ch 1-2 | PS1 |
 | Apr 24 | Wed | Neural networks | ESL ch 11; DLPyR ch 1-2 |  |
-| Apr 29 | Mon | Deep learning - fundamentals and Keras/Tensorflow | DLPyR ch 3-4 | PS1 |
-| May 1 | Wed | Deep learning - texts and sequences | DLPyR ch 6 | Lit review/theory draft |
-| May 6 | Mon | Individual meetings - theory section feedback |  | PS2 |
+| Apr 29 | Mon | Deep learning - fundamentals and Keras/Tensorflow | DLPyR ch 3-4 | PS2 |
+| May 1 | Wed | Deep learning - texts and sequences | DLPyR ch 6 | Lit review draft |
+| May 6 | Mon | Individual meetings - literature review feedback |  | PS3 |
 | May 8 | Wed | Assessing algorithmic bias | Notes |  |
 | May 13 | Mon | Improving statistical graphics |  |  |
 | May 15 | Wed | Improving statistical graphics |  |  |
-| May 20 | Mon | Class imbalance (Sushmita) |  | PS3 |
+| May 20 | Mon | Class imbalance (Sushmita) |  |  |
 | May 22 | Wed | Effective presentations |  | Methods/results draft |
 | May 27 | Mon | No class (Memorial Day) |  | PS4 |
 | May 29 | Wed | No class (out of town) |  |  |
