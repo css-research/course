@@ -50,7 +50,7 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | Date | Day | Topic | Reading | Assignment due dates |
 |--------|-----|---------------------------------------------------|-------------------------|-------------------------|
 | Apr 1 | Mon | Overview/reproducibility in science |  |  |
-| Apr 3 | Wed | Identifying a research question |  |  |
+| Apr 3 | Wed | Identifying a research question | CR ch 3-6  |  |
 | Apr 8 | Mon | Writing the literature review/theory sections |  |  |
 | Apr 10 | Wed | Methods/results section |  | Research proposal |
 | Apr 15 | Mon | Individual meetings - proposal feedback |  |  |
@@ -78,6 +78,8 @@ All readings are required unless otherwise noted. Adjustments can be made throug
 * Data/methods section
     * [Broockman, D. E., & Skovron, C. (2018). Bias in Perceptions of Public Opinion among Political Elites. *American Political Science Review*, 1-22.](https://www.cambridge.org/core/journals/american-political-science-review/article/bias-in-perceptions-of-public-opinion-among-political-elites/2EF080E04D3AAE6AC1C894F52642E706/share/1bd83a8a05b6ac177c51e7a19aee1c55f3ef4b97)
     * [Kalla, J. L., & Broockman, D. E. (2016). Campaign contributions facilitate access to congressional officials: A randomized field experiment. *American Journal of Political Science*, 60(3), 545-558.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12180)
-* Deep learning with Python/R
+* [DLPyR] Deep learning with Python/R
     * [Chollet, F. (2017). *Deep learning with Python*. Manning Publications.](https://www.manning.com/books/deep-learning-with-python)
     * [Chollet, F. with J.J. Allaire (2018). *Deep learning with R*. Manning Publications.](https://www.manning.com/books/deep-learning-with-r)
+* [CR] Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. (2016). *The craft of research*. University of Chicago press.
+    * [eBook available through the UChicago library](https://ebookcentral.proquest.com/lib/uchicago/detail.action?docID=4785166)
