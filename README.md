@@ -21,12 +21,7 @@ This course focuses on applying computational methods to conducting social scien
 | Problem set                 |    10  |      4   |        40    |
 | **Total Points**            |        |          |       160    |
 
-* All assignments related to the final project will be turned in via their own public GitHub repositories. You can create this repository [here](https://classroom.github.com/a/QnC7JReS). The directory structure of this repository should contain **at minimum** the following directories:
-    * `Proposal`
-    * `LitReview`
-    * `MethodsResults`
-    * `Poster`
-    * `FinalPaper`
+* All assignments related to the final project will be turned in via their own public GitHub repositories. You can create this repository [here](https://classroom.github.com/a/QnC7JReS).
 * Each problem set will be submitted via pull request to individual repositories (e.g. `hw01`, `hw02`, `hw03`)
 
 ## Late Problem Sets
