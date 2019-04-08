@@ -46,7 +46,7 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 |--------|-----|---------------------------------------------------|-------------------------|------------------------------------------------------------------------|-----------------------|
 | Apr 1 | Mon | Overview/reproducibility in science |  | [Slides](https://model.uchicago.edu/slides/intro-reproducibility.html) |  |
 | Apr 3 | Wed | Identifying a research question | CR ch 3-6 | [Slides](https://model.uchicago.edu/slides/identify-a-question.html) |  |
-| Apr 8 | Mon | Writing the literature review/theory sections |  |  |  |
+| Apr 8 | Mon | Writing the literature review/theory sections |  | [Slides](https://model.uchicago.edu/slides/theory-section.html) |  |
 | Apr 10 | Wed | Methods/results section |  |  | [Research proposal](assignments/project-proposal.md) |
 | Apr 15 | Mon | Individual meetings - proposal feedback |  |  |  |
 | Apr 17 | Wed | Dealing with missingness | Notes |  |  |
