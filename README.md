@@ -47,7 +47,7 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | Apr 1 | Mon | Overview/reproducibility in science |  | [Slides](https://model.uchicago.edu/slides/intro-reproducibility.html) |  |
 | Apr 3 | Wed | Identifying a research question | CR ch 3-6 | [Slides](https://model.uchicago.edu/slides/identify-a-question.html) |  |
 | Apr 8 | Mon | Writing the literature review/theory sections |  | [Slides](https://model.uchicago.edu/slides/theory-section.html) |  |
-| Apr 10 | Wed | Methods/results section |  |  | [Research proposal](assignments/project-proposal.md) |
+| Apr 10 | Wed | Methods/results section |  | [Slides](https://model.uchicago.edu/slides/data-methods-results.html) | [Research proposal](assignments/project-proposal.md) |
 | Apr 15 | Mon | Individual meetings - proposal feedback |  |  |  |
 | Apr 17 | Wed | Dealing with missingness | Notes |  |  |
 | Apr 22 | Mon | Neural networks | ESL ch 11; DLPyR ch 1-2 |  | PS1 |
@@ -70,9 +70,8 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 
 All readings are required unless otherwise noted. Adjustments can be made throughout the quarter. Be sure to check this repository frequently to make sure you know all the assigned readings.
 
-* Data/methods section
+* Data/methods/results sections
     * [Broockman, D. E., & Skovron, C. (2018). Bias in Perceptions of Public Opinion among Political Elites. *American Political Science Review*, 1-22.](https://www.cambridge.org/core/journals/american-political-science-review/article/bias-in-perceptions-of-public-opinion-among-political-elites/2EF080E04D3AAE6AC1C894F52642E706/share/1bd83a8a05b6ac177c51e7a19aee1c55f3ef4b97)
-    * [Kalla, J. L., & Broockman, D. E. (2016). Campaign contributions facilitate access to congressional officials: A randomized field experiment. *American Journal of Political Science*, 60(3), 545-558.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12180)
 * [DLPyR] Deep learning with Python/R
     * [Chollet, F. (2017). *Deep learning with Python*. Manning Publications.](https://www.manning.com/books/deep-learning-with-python)
     * [Chollet, F. with J.J. Allaire (2018). *Deep learning with R*. Manning Publications.](https://www.manning.com/books/deep-learning-with-r)
