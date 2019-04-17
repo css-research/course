@@ -49,7 +49,7 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | Apr 8 | Mon | Writing the literature review/theory sections |  | [Slides](https://model.uchicago.edu/slides/theory-section.html) |  |
 | Apr 10 | Wed | Methods/results section |  | [Slides](https://model.uchicago.edu/slides/data-methods-results.html) | [Research proposal](assignments/project-proposal.md) |
 | Apr 15 | Mon | Individual meetings - proposal feedback |  |  |  |
-| Apr 17 | Wed | Dealing with missingness | Notes |  |  |
+| Apr 17 | Wed | Dealing with missingness | [Notes](https://model.uchicago.edu/notes/imputation/) | [Slides](https://model.uchicago.edu/slides/imputation.html)  |  |
 | Apr 22 | Mon | Neural networks | ESL ch 11; DLPyR ch 1-2 |  | PS1 |
 | Apr 24 | Wed | Neural networks | ESL ch 11; DLPyR ch 1-2 |  |  |
 | Apr 29 | Mon | Deep learning - fundamentals and Keras/Tensorflow | DLPyR ch 3-4 |  | PS2 |
