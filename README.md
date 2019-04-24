@@ -51,7 +51,7 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | Apr 15 | Mon | Individual meetings - proposal feedback |  |  |  |
 | Apr 17 | Wed | Dealing with missingness | [Notes](https://model.uchicago.edu/notes/imputation/) | [Slides](https://model.uchicago.edu/slides/imputation.html)  |  |
 | Apr 22 | Mon | Deep learning fundamentals | ESL ch 11; DLPyR ch 1-2 | [Slides](https://model.uchicago.edu/slides/what-is-deep-learning.html) |  |
-| Apr 24 | Wed | Deep learning and Keras/Tensorflow | ESL ch 11; DLPyR ch 3-4 |  |  |
+| Apr 24 | Wed | Deep learning and Keras/Tensorflow | ESL ch 11; DLPyR ch 3-4 | [Slides](https://model.uchicago.edu/slides/building-blocks.html) |  |
 | Apr 29 | Mon | Deep learning - texts and sequences | DLPyR ch 6 |  | PS1 |
 | May 1 | Wed |  |  |  | [Lit review draft](assignments/lit-review.md) |
 | May 6 | Mon | Individual meetings - literature review feedback |  |  | PS2 |
