@@ -52,15 +52,15 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | Apr 17 | Wed | Dealing with missingness | [Notes](https://model.uchicago.edu/notes/imputation/) | [Slides](https://model.uchicago.edu/slides/imputation.html)  |  |
 | Apr 22 | Mon | Deep learning fundamentals | ESL ch 11; DLPyR ch 1-2 | [Slides](https://model.uchicago.edu/slides/what-is-deep-learning.html) |  |
 | Apr 24 | Wed | Deep learning and Keras/Tensorflow | ESL ch 11; DLPyR ch 3-4 | [Slides](https://model.uchicago.edu/slides/building-blocks.html) |  |
-| Apr 29 | Mon | Deep learning - texts and sequences | DLPyR ch 6 |  | PS1 |
+| Apr 29 | Mon | Deep learning - texts and sequences | DLPyR ch 6 |  |  |
 | May 1 | Wed |  |  |  | [Lit review draft](assignments/lit-review.md) |
-| May 6 | Mon | Individual meetings - literature review feedback |  |  | PS2 |
-| May 8 | Wed | Assessing algorithmic bias | Notes |  |  |
+| May 6 | Mon | Individual meetings - literature review feedback |  |  |  |
+| May 8 | Wed | Assessing algorithmic bias | Notes |  | [HW01](assignments/hw01.md) |
 | May 13 | Mon | Improving statistical graphics |  |  |  |
 | May 15 | Wed | Improving statistical graphics |  |  |  |
 | May 20 | Mon | Class imbalance (Sushmita) |  |  |  |
 | May 22 | Wed | Effective presentations |  |  | [Methods/results draft](assignments/methods-results.md) |
-| May 27 | Mon | No class (Memorial Day) |  |  | PS3 |
+| May 27 | Mon | No class (Memorial Day) |  |  |  |
 | May 29 | Wed | No class (out of town) |  |  |  |
 | Jun 3 | Mon | Writing the abstract/intro/conclusion |  |  |  |
 | Jun 5 | Wed | Poster session |  |  | [Research poster](assignments/poster.md) |
