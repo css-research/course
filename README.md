@@ -57,7 +57,7 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | May 6 | Mon | Individual meetings - literature review feedback |  |  |  |
 | May 8 | Wed | Deep learning - texts and sequences | DLPyR ch 6 |  | [HW01](assignments/hw01.md) |
 | May 13 | Mon | Improving statistical graphics |  |  |  |
-| May 15 | Wed | Improving statistical graphics |  |  |  |
+| May 15 | Wed | Improving statistical graphics |  |  | [HW02](assignments/hw02.md) |
 | May 20 | Mon | Class imbalance (Sushmita) |  |  |  |
 | May 22 | Wed | Effective presentations |  |  | [Methods/results draft](assignments/methods-results.md) |
 | May 27 | Mon | No class (Memorial Day) |  |  |  |
