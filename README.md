@@ -56,7 +56,7 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | May 1 | Wed | Class cancelled |  |  | [Lit review draft](assignments/lit-review.md) |
 | May 6 | Mon | Individual meetings - literature review feedback |  |  |  |
 | May 8 | Wed | Deep learning - texts and sequences | DLPyR ch 6 | [Slides](https://model.uchicago.edu/slides/sequential-data.html) | [HW01](assignments/hw01.md) |
-| May 13 | Mon | Improving statistical graphics |  |  |  |
+| May 13 | Mon | Improving statistical graphics |  | [Slides](https://model.uchicago.edu/slides/design-eval.html) |  |
 | May 15 | Wed | Improving statistical graphics |  |  | [HW02](assignments/hw02.md) |
 | May 20 | Mon | Class imbalance (Sushmita) |  |  |  |
 | May 22 | Wed | Effective presentations |  |  | [Methods/results draft](assignments/methods-results.md) |
