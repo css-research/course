@@ -55,7 +55,7 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | Apr 29 | Mon | Deep learning and Keras/Tensorflow | ESL ch 11; DLPyR ch 3-4 | [Slides](https://model.uchicago.edu/slides/building-blocks.html) |  |
 | May 1 | Wed | Class cancelled |  |  | [Lit review draft](assignments/lit-review.md) |
 | May 6 | Mon | Individual meetings - literature review feedback |  |  |  |
-| May 8 | Wed | Deep learning - texts and sequences | DLPyR ch 6 |  | [HW01](assignments/hw01.md) |
+| May 8 | Wed | Deep learning - texts and sequences | DLPyR ch 6 | [Slides](https://model.uchicago.edu/slides/sequential-data.html) | [HW01](assignments/hw01.md) |
 | May 13 | Mon | Improving statistical graphics |  |  |  |
 | May 15 | Wed | Improving statistical graphics |  |  | [HW02](assignments/hw02.md) |
 | May 20 | Mon | Class imbalance (Sushmita) |  |  |  |
