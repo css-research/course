@@ -18,8 +18,8 @@ This course focuses on applying computational methods to conducting social scien
 | Peer evaluations of posters |     2  |      5   |        10    |
 | Poster presentation         |    30  |      1   |        30    |
 | Final paper                 |    40  |      1   |        40    |
-| Problem set                 |    10  |      4   |        40    |
-| **Total Points**            |        |          |       160    |
+| Problem set                 |    10  |      3   |        30    |
+| **Total Points**            |        |          |       150    |
 
 * All assignments related to the final project will be turned in via their own public GitHub repositories. You can create this repository [here](https://classroom.github.com/a/QnC7JReS).
 * Each problem set will be submitted via pull request to individual repositories (e.g. `hw01`, `hw02`, `hw03`)
