@@ -58,7 +58,7 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | May 8 | Wed | Deep learning - texts and sequences | DLPyR ch 6 | [Slides](https://model.uchicago.edu/slides/sequential-data.html) | [HW01](assignments/hw01.md) |
 | May 13 | Mon | Data visualization and evaluating statistical graphs |  | [Slides](https://model.uchicago.edu/slides/design-eval.html) |  |
 | May 15 | Wed | Best practices in designing statistical graphics |  | [Slides](https://model.uchicago.edu/slides/best-practices.html) | [HW02](assignments/hw02.md) |
-| May 20 | Mon | Class imbalance (Sushmita) |  |  |  |
+| May 20 | Mon | Class imbalance (Sushmita) |  | [Slides](https://github.com/sushmitavgopalan16/talks/blob/master/MACSS%20%20Class%20Imbalance.pptx) |  |
 | May 22 | Wed | Effective presentations |  | [Slides](https://model.uchicago.edu/slides/present-research.html) | [Methods/results draft](assignments/methods-results.md) |
 | May 27 | Mon | No class (Memorial Day) |  |  |  |
 | May 29 | Wed | No class (out of town) |  |  | [HW03](assignments/hw03.md) |
