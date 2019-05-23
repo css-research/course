@@ -77,3 +77,4 @@ All readings are required unless otherwise noted. Adjustments can be made throug
     * [Chollet, F. with J.J. Allaire (2018). *Deep learning with R*. Manning Publications.](https://www.manning.com/books/deep-learning-with-r)
 * [CR] Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. (2016). *The craft of research*. University of Chicago press.
     * [eBook available through the UChicago library](https://ebookcentral.proquest.com/lib/uchicago/detail.action?docID=4785166)
+* [Kastellec, J., & Leoni, E. (2007). Using Graphs Instead of Tables in Political Science. *Perspectives on Politic*s, 5(4), 755-771. Retrieved from http://www.jstor.org/stable/20446574](https://www.jstor.org/stable/20446574?seq=1#metadata_info_tab_contents)
