@@ -62,7 +62,7 @@ If you need any special accommodations, please provide me (Dr. Soltoff) with a c
 | May 22 | Wed | Effective presentations |  | [Slides](https://model.uchicago.edu/slides/present-research.html) | [Methods/results draft](assignments/methods-results.md) |
 | May 27 | Mon | No class (Memorial Day) |  |  |  |
 | May 29 | Wed | No class (out of town) |  |  | [HW03](assignments/hw03.md) |
-| Jun 3 | Mon | Writing the abstract/intro/conclusion |  |  |  |
+| Jun 3 | Mon | Writing the abstract/intro/conclusion |  | [Slides](https://model.uchicago.edu/slides/abstract-intro-conclusion.html) |  |
 | Jun 5 | Wed | Poster session |  |  | [Research poster](assignments/poster.md) |
 | Jun 12 | Wed |  |  |  | [Final paper (5pm)](assignments/final-paper.md) |
 
